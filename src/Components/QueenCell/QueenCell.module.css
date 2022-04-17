@@ -1,0 +1,17 @@
+.cell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.white {
+  background-color: #eeeed5;
+}
+.black {
+  background-color: #7d945d;
+}
+.queen{
+    display: flex;
+    width: 50%;
+    height: 50%;
+}

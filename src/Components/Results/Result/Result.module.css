@@ -1,0 +1,18 @@
+.result {
+  display: grid;
+  /* grid-template: repeat(8, 40px) / repeat(8, 40px); */
+  /* border:2px solid salmon */
+  /* margin: 1rem; */
+
+}
+.resultFlex{
+  display: flex;
+  justify-content: flex-start;
+  /* border: hotpink 2px solid; */
+  margin: 1rem;
+}
+.resultNumber{
+  color: #4a0ea5;
+  font-size: 1.8rem;
+  font-weight:bold ;
+}

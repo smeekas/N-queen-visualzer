@@ -1,0 +1,12 @@
+.board{
+    flex: 1;
+    display: grid;
+    /* grid-template-columns: repeat(4,80px); */
+    width: 350px;
+    height: 350px;
+    /* border: 1px solid black; */
+}
+.sliders{
+    margin-top: 10rem;
+    /* border: hotpink 2px solid; */
+}

@@ -1,0 +1,22 @@
+.btn{
+  background-color: brown;
+  color: white;
+  border: none;
+  padding: 4px 16px;
+}
+.btn:hover{
+background-color: rgb(99, 0, 0);
+}
+.App{
+  margin: 2rem ;
+  display: flex;
+  align-items: flex-start ;
+  /* justify-content: space-; */
+}
+.menuResult{
+  margin-left: 7rem;
+  display: flex;
+  /* border: 2px solid indianred; */
+  align-self: flex-start;
+  flex: 1;
+}

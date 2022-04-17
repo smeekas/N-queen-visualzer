@@ -1,0 +1,21 @@
+.results{
+    /* border: 1px solid red; */
+    /* height: 100%; */
+    /* width: 100%; */
+    flex: 1;
+/* margin-left: 2.5rem; */
+overflow-y: scroll;
+max-height: 92vh;
+border-radius: 16px;
+background-color: #f3ecfd;
+}
+.results h2{
+    text-align: center;
+}
+.resultBoards{
+    /* position: absolute; */
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

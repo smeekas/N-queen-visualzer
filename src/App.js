@@ -4,15 +4,12 @@ import Menu from "./Components/Menu/Menu";
 import Results from "./Components/Results/Results";
 
 function App() {
-
   return (
     <div className="App">
-     
       <Board />
       <div className="menuResult">
-
-      <Menu />
-      <Results />
+        <Menu />
+        <Results />
       </div>
     </div>
   );
